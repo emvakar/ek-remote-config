@@ -40,7 +40,7 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       launchStyle = "0"
       useCustomWorkingDirectory = "YES"
-      customWorkingDirectory = "/Users/emil/Projects/TAXCOM/Services/ek-remote-config"
+      customWorkingDirectory = "~/Projects/Services/ek-remote-config"
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
